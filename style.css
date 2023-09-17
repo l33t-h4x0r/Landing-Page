@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.right-links {
+    display: flex;
+    gap: 16px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+.section1 {
+    display: flex;
+}
+
+
+.cards {
+    display: flex;
+    gap: 16px;
+}
+.card-img {
+    width: 100px;
+    height: 100px;
+    border: blue solid 2px;
+}
